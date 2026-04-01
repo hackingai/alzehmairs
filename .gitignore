@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+env311/
+sr/
+srikar/
+vh/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Dataset
+dataset/
+*.pkl
+*.pth
+*.pt
+*.tar.gz
+*.zip
+Alzheimer Dataset.zip
+oasis_cross-sectional_disc*.tar.gz
+
+# Logs
+*.log
+checkpoints/
+*.png
+*.jpg
+*.jpeg
+training_curves.png
+classification_report.txt
+class_indices.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
